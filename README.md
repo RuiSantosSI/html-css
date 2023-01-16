@@ -1,13 +1,13 @@
 <img src="imagens/me.png" align="right" width="300">
 
 # Curso de HTML5 e CSS 3
-Material público para o ensino básico de HTML5 e CSS3 para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
+Material público para a aprendizagem básica de HTML5 e CSS3 para alunos iniciantes. Aceda ao material em PDF, analise o código disponibilizado para cada exercício e veja-os a funcionar em execução direta via repositório GitHub.
 
-* [Acesse os PDFs das aulas clicando aqui](https://ruisantossi.github.io/html-css/aulas-pdf)
+* [Aceda aos PDFs das aulas clicando aqui](https://ruisantossi.github.io/html-css/aulas-pdf)
 * [Código disponível para os exercícios](https://ruisantossi.github.io/html-css/exercícios)
 * [Execute os exercícios aqui](https://ruisantossi.github.io/html-css/exercícios/)
 * [Resolva os desafios de HTML aqui](https://ruisantossi.github.io/html-css/desafios)
 
 ## Direitos de uso
 
-Você tem todo o direito de usar esse material para a tua própria aprendizagem. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado pelo Prof. Gustavo Guanabara. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
+Você tem todo o direito de usar esse material para a sua própria aprendizagem. Porém todos o que usarem esse material - seja para qual for a finalidade - deverão manter a referência ao material original, criado e disponibilizado pelo Prof. Gustavo Guanabara. Este conteúdo não poderá ser utilizado em nenhuma hipótese para ser replicada - integral ou parcialmente - por autores/ editoras/ instituições de ensino para criar livros ou apostilas, com finalidades de obter ganho financeiro com ele.
