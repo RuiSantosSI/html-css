@@ -3,10 +3,10 @@
 # Curso de HTML5 e CSS 3
 Material público para a aprendizagem básica de HTML5 e CSS3 para alunos iniciantes. Aceda ao material em PDF, analise o código disponibilizado para cada exercício e veja-os a funcionar em execução direta via repositório GitHub.
 
-* [Aceda aos PDFs das aulas clicando aqui](https://ruisantossi.github.io/html-css/aulas-pdf)
-* [Código disponível para os exercícios](https://ruisantossi.github.io/html-css/exercícios)
+* [Aceda aos PDFs das aulas clicando aqui](https://github.com/RuiSantosSI/html-css/tree/main/aulas-pdf)
+* [Código disponível para os exercícios](https://github.com/RuiSantosSI/html-css/tree/main/exerc%C3%ADcios)
 * [Execute os exercícios aqui](https://ruisantossi.github.io/html-css/exercícios/)
-* [Resolva os desafios de HTML aqui](https://ruisantossi.github.io/html-css/desafios)
+* [Resolva os desafios de HTML aqui](https://ruisantossi.github.io/html-css/desafios/)
 
 ## Direitos de uso
 
