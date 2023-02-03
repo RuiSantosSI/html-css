@@ -23,6 +23,7 @@ h1 {
 }
 
 /* declarações retrato / portrait */
+
 @media screen and (orientation: portrait) {
     body {
         background-image: url(../imagens/cev-portrait.jpg);
@@ -31,6 +32,7 @@ h1 {
 }
 
 /* declarações paisagem /landscape */
+
 @media screen and (orientation: landscape) {
     body {
         background-image: url(../imagens/cev-landscape.jpg);
