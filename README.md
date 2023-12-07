@@ -6,7 +6,7 @@ Material público para a aprendizagem básica de HTML5 e CSS3 para alunos inicia
 * [Aceda aos PDFs das aulas](https://github.com/RuiSantosSI/html-css/tree/main/aulas-pdf)
 * [Código disponível para os exercícios](https://github.com/RuiSantosSI/html-css/tree/main/exercicios)
 * [Execute os exercícios](https://ruisantossi.github.io/html-css/exercicios/)
-* [Resolva os desafios de HTML aqui](https://ruisantossi.github.io/html-css/desafios/)
+* [Resolva os desafios de HTML](https://ruisantossi.github.io/html-css/desafios/)
 
 ## Direitos de uso
 
